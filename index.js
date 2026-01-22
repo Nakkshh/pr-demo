@@ -1,1 +1,5 @@
-console.log("Hello GitHub");
+function greet(name) {
+  console.log(`Hello, ${name}! Welcome to GitHub PRs`);
+}
+
+greet("Nakshatra");
